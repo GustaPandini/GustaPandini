@@ -42,7 +42,7 @@ Sou um desenvolvedor Full-Stack com foco em Back-End em formação, buscando cri
 ### 📬 Contato e Redes
 
 Vamos nos conectar?
-- 💼 **LinkedIn:** [Gustavo Pandini](https://www.linkedin.com/in/gustavo-pandini/)
+- 💼 **LinkedIn:** [Gustavo Pandini](https://www.linkedin.com/in/gustavopandini/)
 - ✉️ **E-mail:** [gugui.pandini@gmail.com](mailto:gugui.pandini@gmail.com)
 
 
