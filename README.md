@@ -1,17 +1,17 @@
 # Olá, eu sou o Gustavo Pandini 👋
 
-### 🚀 Desenvolvedor Full-Stack focado em Back-End (.NET)
+### Desenvolvedor Full-Stack focado em Back-End (.NET)
 
 Sou um desenvolvedor Full-Stack com foco em Back-End em formação, buscando criar soluções práticas, eficientes e bem estruturadas. 
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **IFSC**.
-- 📜 Formado no **Programa Entra21** (C# Blusoft em parceria com o Senac) e **Bootcamp .NET C#** da **DIO**.
-- 💼 Experiência como auxiliar administrativo na Auto Peças Pereira, desenvolvendo habilidades de comunicação, vendas e atendimento ao cliente.
-- 🎯 Buscando minha primeira oportunidade técnica na área de tecnologia.
+-  Cursando **Análise e Desenvolvimento de Sistemas** no **IFSC**.
+-  Formado no **Programa Entra21** (C# Blusoft em parceria com o Senac) e **Bootcamp .NET C#** da **DIO**.
+-  Experiência como auxiliar administrativo na Auto Peças Pereira, desenvolvendo habilidades de comunicação, vendas e atendimento ao cliente.
+-  Buscando minha primeira oportunidade técnica na área de tecnologia.
 
 ---
 
-### 🛠️ Stack & Ferramentas
+### Stack & Ferramentas
 
 <p align="left">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" />
@@ -32,17 +32,17 @@ Sou um desenvolvedor Full-Stack com foco em Back-End em formação, buscando cri
 
 ---
 
-### 📌 Projetos em Destaque
+### Projetos em Destaque
 
-* ♻️ **[ColetaBlu](https://github.com/JaineBusana/TrabalhoPI)** — Projeto construído em equipe focado em soluções para coleta e gestão de resíduos em Blumenau.
-* 🚗 **[Sistema de Gestão de Concessionária](https://github.com/GustaPandini/SistemaDeGestaoDeConcessionaria)** — Aplicação desenvolvida para gerenciamento completo de veículos, vendas e estoque de concessionária.
+* **[ColetaBlu](https://github.com/JaineBusana/TrabalhoPI)** — Projeto construído em equipe focado em soluções para coleta e gestão de resíduos em Blumenau.
+* **[Sistema de Gestão de Concessionária](https://github.com/GustaPandini/SistemaDeGestaoDeConcessionaria)** — Aplicação desenvolvida para gerenciamento completo de veículos, vendas e estoque de concessionária.
 
 ---
 
-### 📬 Contato e Redes
+### Contato e Redes
 
 Vamos nos conectar?
-- 💼 **LinkedIn:** [Gustavo Pandini](https://www.linkedin.com/in/gustavopandini/)
-- ✉️ **E-mail:** [gugui.pandini@gmail.com](mailto:gugui.pandini@gmail.com)
+-  **LinkedIn:** [Gustavo Pandini](https://www.linkedin.com/in/gustavopandini/)
+-  **E-mail:** [gugui.pandini@gmail.com](mailto:gugui.pandini@gmail.com)
 
 
