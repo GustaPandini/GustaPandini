@@ -23,9 +23,11 @@ Sou um desenvolvedor Full-Stack com foco em Back-End em formação, buscando cri
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/springboot/springboot-original.svg" alt="Spring Boot" title="SpringBoot" />
 </p>
 
-* **Back-End:** C# | .NET | ASP.NET Web API | Entity Framework Core | POO | SOLID
+* **Back-End:** C# | .NET | ASP.NET Web API | Entity Framework Core | Java | Spring Boot | POO | SOLID
 * **Banco de Dados:** SQL | MySQL | SQL Server
 * **Front-End:** HTML5 | CSS3 | JavaScript | jQuery
 * **Ferramentas:** Git | GitHub | Swagger
